@@ -1,0 +1,2 @@
+# MKS_Mini12864_V3_Shell_Trident
+适配Voron Trident的MKS Mini12864外壳
